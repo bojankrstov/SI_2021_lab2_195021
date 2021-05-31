@@ -1,6 +1,10 @@
 Бојан Крстов - 195021
 СИ - лаб 2;
 
+Java code:
+![image](https://user-images.githubusercontent.com/80770532/120239398-7b859b00-c25e-11eb-9608-bdc69d23d035.png)
+
+
 
 **Control Flow Graph**
 
